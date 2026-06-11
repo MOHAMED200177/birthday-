@@ -26,24 +26,24 @@ const story = {
       type: "gallery",
       title: "Your Moments 📸",
       color: "#6EE7B7",
-      images: [
-        {
-          src: "https://picsum.photos/600/800?random=1",
-          caption: "Haifa Girl",
-        },
-        {
-          src: "https://picsum.photos/600/800?random=2",
-          caption: "Baby Girl",
-        },
-        {
-          src: "https://picsum.photos/600/800?random=3",
-          caption: "Sweet Smile",
-        },
-        {
-          src: "https://picsum.photos/600/800?random=4",
-          caption: "Special Memory",
-        },
-      ],
+     images: [
+  {
+    src: "https://images.unsplash.com/photo-1548460765-e8d05f8b6a20?w=600&h=800&fit=crop&crop=top",
+    caption: "Haifa Girl",
+  },
+  {
+    src: "https://images.unsplash.com/photo-1548460765-e8d05f8b6a20?w=600&h=800&fit=crop&crop=center",
+    caption: "Baby Girl",
+  },
+  {
+    src: "https://images.unsplash.com/photo-1548460765-e8d05f8b6a20?w=600&h=800&fit=crop&crop=bottom",
+    caption: "Sweet Smile",
+  },
+  {
+    src: "https://images.unsplash.com/photo-1548460765-e8d05f8b6a20?w=600&h=800&fit=crop&crop=entropy",
+    caption: "Special Memory",
+  },
+],
     },
 
     {
