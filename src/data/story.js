@@ -28,19 +28,19 @@ const story = {
       color: "#6EE7B7",
      images: [
   {
-    src: "https://images.unsplash.com/photo-1548460765-e8d05f8b6a20?w=600&h=800&fit=crop&crop=top",
+    src: "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?w=600&h=800&fit=crop",
     caption: "Haifa Girl",
   },
   {
-    src: "https://images.unsplash.com/photo-1548460765-e8d05f8b6a20?w=600&h=800&fit=crop&crop=center",
+    src: "https://images.pexels.com/photos/931177/pexels-photo-931177.jpeg?w=600&h=800&fit=crop",
     caption: "Baby Girl",
   },
   {
-    src: "https://images.unsplash.com/photo-1548460765-e8d05f8b6a20?w=600&h=800&fit=crop&crop=bottom",
+    src: "https://images.pexels.com/photos/1233323/pexels-photo-1233323.jpeg?w=600&h=800&fit=crop",
     caption: "Sweet Smile",
   },
   {
-    src: "https://images.unsplash.com/photo-1548460765-e8d05f8b6a20?w=600&h=800&fit=crop&crop=entropy",
+    src: "https://images.pexels.com/photos/2832034/pexels-photo-2832034.jpeg?w=600&h=800&fit=crop",
     caption: "Special Memory",
   },
 ],
